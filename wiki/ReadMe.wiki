@@ -1,0 +1,28 @@
+#summary Xeli's Android port
+#labels Featured,Phase-Support,Phase-Implementation
+
+= Code Sample =
+
+Inside the downloadable archive we've gathered the code that Xeli added and modified inside our repository. As the project dealt with creating a Java GUI from scratch, we've added the full Java sources that are necessary to build the frontend; on the other hand also the engine has been heavily modified, but as it was kept up to date with our changes, we've included a diff to better emphasize the work carried out by Xeli.
+
+The port is now fully functional and an alpha version of the software is already available on the Android Market: https://market.android.com/details?id=org.hedgewars.mobile
+
+= Wiki pages =
+
+Xeli has added two interesting wiki pages explaining how the port is organized and what to do for building and testing his changes.
+
+http://code.google.com/p/hedgewars/wiki/HedgeroidGuide
+http://code.google.com/p/hedgewars/wiki/Hedgeroid_explained
+
+= Blog posts =
+
+You can find out how the port evolved on the various blog updates that were written during the summer. There are also Youtube videos that show how the game works on Android.
+
+http://www.hedgewars.org/node/3072
+http://www.hedgewars.org/node/3148
+http://www.hedgewars.org/node/3173
+http://www.hedgewars.org/node/3186
+http://www.hedgewars.org/node/3219
+http://www.hedgewars.org/node/3243
+http://www.hedgewars.org/node/3249
+http://www.hedgewars.org/node/3257
