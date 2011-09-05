@@ -11,18 +11,18 @@ The port is now fully functional and an alpha version of the software is already
 
 Xeli has added two interesting wiki pages explaining how the port is organized and what to do for building and testing his changes.
 
-http://code.google.com/p/hedgewars/wiki/HedgeroidGuide
-http://code.google.com/p/hedgewars/wiki/Hedgeroid_explained
+  * http://code.google.com/p/hedgewars/wiki/HedgeroidGuide
+  * http://code.google.com/p/hedgewars/wiki/Hedgeroid_explained
 
 = Blog posts =
 
 You can find out how the port evolved on the various blog updates that were written during the summer. There are also Youtube videos that show how the game works on Android.
 
-http://www.hedgewars.org/node/3072
-http://www.hedgewars.org/node/3148
-http://www.hedgewars.org/node/3173
-http://www.hedgewars.org/node/3186
-http://www.hedgewars.org/node/3219
-http://www.hedgewars.org/node/3243
-http://www.hedgewars.org/node/3249
-http://www.hedgewars.org/node/3257
+  * http://www.hedgewars.org/node/3072
+  * http://www.hedgewars.org/node/3148
+  * http://www.hedgewars.org/node/3173
+  * http://www.hedgewars.org/node/3186
+  * http://www.hedgewars.org/node/3219
+  * http://www.hedgewars.org/node/3243
+  * http://www.hedgewars.org/node/3249
+  * http://www.hedgewars.org/node/3257
